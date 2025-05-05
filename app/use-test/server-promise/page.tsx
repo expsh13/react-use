@@ -44,7 +44,7 @@ export default function ServerPromisePage() {
       </div>
 
       <div className="mt-8">
-        <Link href="/use-test" className="text-blue-500 underline">
+        <Link href="/" className="text-blue-500 underline">
           検証メニューに戻る
         </Link>
       </div>
